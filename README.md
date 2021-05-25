@@ -1,2 +1,10 @@
 # hello-world
-This repository is the first step towards learning Github. This is a general code for writing Hello World in "c" language
+This is a general code for writing Hello World in "C++" language
+
+#include <iostream>
+using namespace std;
+int main()
+{
+ cout<< "Hello World";
+ return 0;
+}
